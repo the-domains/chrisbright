@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ChrisBright]]></title>
         <description><![CDATA[ChrisBright]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chrisbright/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 16:42:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 00:10:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrisbright/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I lost absolutely EVERYTHING. This is my story and the chronicle of my climb back to the top...</p>]]></description>
+            <link>https://thegrid.ai/chrisbright/i-lost-absolutely-everything-this-is-my-story-and-the-chron/index.html</link>
+            <guid isPermaLink="false">f332910a-2877-450a-93a1-489804de8d27</guid>
+            <pubDate>Wed, 08 Jun 2016 00:10:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d79e1885-6efd-4bc7-94df-5b51b17e99e9.jpg">]]></description>
-            <link>undefineda808ef8d-3b2d-49b0-9bd5-7f97c412d579/index.html</link>
+            <link>https://thegrid.ai/chrisbright/a808ef8d-3b2d-49b0-9bd5-7f97c412d579/index.html</link>
             <guid isPermaLink="false">a808ef8d-3b2d-49b0-9bd5-7f97c412d579</guid>
             <pubDate>Wed, 27 Apr 2016 16:41:01 GMT</pubDate>
         </item>
