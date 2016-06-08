@@ -1,7 +1,7 @@
 name: ChrisBright
 favicon: null
-layout_spectrum: 0.390063367318362
-typography_spectrum: 0.26639
+layout_spectrum: 0.2497
+typography_spectrum: 0.75149
 title: 'My fight back into "light" - How I did it...'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5750771504826844
-  lightness: 0.7974420455284417
-  saturation: 0.9937479940708727
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.5
   rhythmicContrast: 0.4218402933329344
 purpose: []
